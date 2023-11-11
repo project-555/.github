@@ -56,4 +56,4 @@ Project 555의 Repository 구성은 아래와 같이 이루어져 있습니다.
 ![Hugo](https://img.shields.io/badge/Hugo-black.svg?style=for-the-badge&logo=Hugo)![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 - Plog의 개발자들이 개발하면서 겪은 여정을 문서화하기 위한 저장소입니다.
 - Hugo를 사용하여 정적 페이지를 생성하고, Github Pages를 통해 배포되는 형태로 구성되었습니다.
-- Plog의 프론트, 백엔드 등 개발을 진행하면서 겪었던 내용, Plog를 구현하면서 세웠던 기준, 필요성 등에 대해 상세히 담고 있습니다.](![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white))
+- Plog의 프론트, 백엔드 등 개발을 진행하면서 겪었던 내용, Plog를 구현하면서 세웠던 기준, 필요성 등에 대해 상세히 담고 있습니다.
