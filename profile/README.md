@@ -17,7 +17,7 @@ public class Plog {
     public String sayAboutPlog() {
         String plog = "개발자들을 위한 블로그 서비스"
         
-        while (workingHard()) {
+        while (workingHard(this.members)) {
             plog += goodQuality()
         }
         
