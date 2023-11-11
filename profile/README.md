@@ -41,7 +41,7 @@ Project 555의 Repository 구성은 아래와 같이 이루어져 있습니다.
 - AWS ECS를 통해 배포되며, AWS RDS와 AWS ElasticCache를 통해 데이터베이스를 관리하는 형태로 구성되었습니다.
 
 ### [plog-front](https://github.com/project-555/plog-front)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white)![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white)![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 - Plog의 프론트엔드를 구성하는 소스 코드를 저장하고 있습니다.
 - React를 사용하여 구현되었으며, Material UI를 사용하여 구현되었습니다.
 - AWS Amplify를 통해 배포되며, AWS S3를 통해 정적 파일을 관리하는 형태로 구성되었습니다.
