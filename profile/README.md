@@ -1,7 +1,6 @@
 # Hello Project 555 👋
 프로젝트 555는 함께 무언가를 만들기 위한 개발자 3인으로 이루어져 있습니다.
 
-
 # Plog
 ```java
 public class Plog {
@@ -30,7 +29,7 @@ public class Plog {
 }
 ```
 
-
+### [🏠 Plog가 궁금한가요?](https://project-555.github.io)
 
 # Repository 구성
 Project 555의 Repository 구성은 아래와 같이 이루어져 있습니다.
