@@ -23,7 +23,7 @@ public class Plog {
         if (plog.isAwesome()) {
             return "Plog는 개발자들을 위한 블로그 서비스입니다."
         } else {
-        return "DON'T LIE TO ME"
+            return "DON'T LIE TO ME"
         }
     }
 }
