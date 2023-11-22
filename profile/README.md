@@ -29,7 +29,8 @@ public class Plog {
 }
 ```
 
-### [🏠 Plog가 궁금한가요?](https://project-555.github.io)
+### [🏠 Plog가 궁금한가요?](https://plogcareers.net)
+### [ 📃 Plog의 개발 여정이 궁금한가요?](https://project-555.github.io)
 
 # Repository 구성
 Project 555의 Repository 구성은 아래와 같이 이루어져 있습니다.
